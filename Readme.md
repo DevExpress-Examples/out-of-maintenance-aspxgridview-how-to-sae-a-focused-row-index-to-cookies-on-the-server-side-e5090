@@ -9,7 +9,7 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
-# ASPxGridView - How to sae a focused row index to cookies on the server side
+# ASPxGridView - How to save a focused row index to cookies on the server side
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e5090/)**
 <!-- run online end -->
